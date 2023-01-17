@@ -2,7 +2,7 @@
 
 CSS variables helps organize my styles and reuse them.
 
-On this project I builded a city skyline. I could configured CSS variables and reuse them whenever I want.
+On this project I build a city skyline. I could configured CSS variables and reuse them whenever I want.
 
 
 ##
