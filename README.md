@@ -1,9 +1,8 @@
 # HTML-CSS---Building-a-City-Skyline
 
-CSS variables helps organize my styles and reuse them.
-
 On this project I build a city skyline. I could configured CSS variables and reuse them whenever I want.
 
+CSS variables helps organize my styles and reuse them.
 
 ##
 <div style="display: inline_block">
